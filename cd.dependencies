@@ -12,7 +12,7 @@
   {
     "repository": "CyanDreamProject/proprietary_vendor_htc",
     "target_path": "vendor/htc",
-    "branch": "cd-4.3"
+    "branch": "cd-4.4"
   },
   {
     "repository": "CyanogenMod/android_kernel_htc_m7",
