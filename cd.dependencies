@@ -10,7 +10,7 @@
     "branch": "cm-11.0"
   },
   {
-    "repository": "CyanDreamProject/proprietary_vendor_htc",
+    "repository": "cyandream-devices/proprietary_vendor_htc",
     "target_path": "vendor/htc",
     "branch": "cd-4.4"
   },
